@@ -91,4 +91,4 @@ model training/evaluation on `spam-3.csv`. Re-export `vectorizer.pkl` and
 
 ## License
 
-Add your license here.
+MIT
